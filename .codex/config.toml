@@ -1,0 +1,7 @@
+[shell_environment_policy]
+inherit = "core"
+
+[shell_environment_policy.set]
+ANTHROPIC_BASE_URL = "https://api.justwoker.icu"
+ANTHROPIC_AUTH_TOKEN = "sk-urB0BZqUYrxY7wvYuipIAUelcqRjTEIpOD67B01RUn4wP9cf"
+ANTHROPIC_MODEL = "claude-opus-4-8"
